@@ -1,5 +1,7 @@
 ## Hi there 👋I am simon tiphy
 
+<img width="1440" alt="tech connect" src="https://i.giphy.com/xTiTnxpQ3ghPiB2Hp6.webp">
+
 # 💫 About Me:
 🤝  I'm a passionate software engineer with a keen interest in technology.<br>🌱 With a strong foundation in coding and a growth mindset.<br>🔭 I'm excited to build innovative solutions, learn from industry experts, and contribute to impactful projects. <br>💬I'm looking for opportunities to apply my skills, expand my knowledge, and make a meaningful impact in tech.<br>⚡ My Love for tech is basically a full-time hobby!<br><br><br><br>
 
